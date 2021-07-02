@@ -2,4 +2,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-Solutions for some of the exercises presented in **Programming Fundamentals** -> 1st year, 1st semester MIEIC-FEUP (may also apply to L.EIC)
+**COURSE:** [Programming Fundamentals](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=459463) (FPRO)
+
+**CONTENTS:** Solutions to some of the exercises and tests
